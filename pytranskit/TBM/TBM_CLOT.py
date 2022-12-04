@@ -11,7 +11,7 @@ import multiprocessing as mp
 import matplotlib.pyplot as plt
 import numpy.linalg as LA
 
-from pytranskit.optrans.continuous import VOT2D
+#from pytranskit.optrans.continuous import VOT2D
 from pytranskit.optrans.utils import signal_to_pdf
 from sklearn.decomposition import PCA
 from pytranskit.optrans.decomposition import PLDA, CCA
